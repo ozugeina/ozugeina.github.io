@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozugeina.github.io/Pri/sitemap_index.txt
+Sitemap: https://ozugeina.github.io/ScG/sitemap_index.txt
+Sitemap: https://ozugeina.github.io/fLj/sitemap_index.txt
+Sitemap: https://ozugeina.github.io/hwR/sitemap_index.txt
